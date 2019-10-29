@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1571112143 source:e:\a11.2016.09880\191015 (tebak angka)\tebak_angka\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
